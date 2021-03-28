@@ -1,0 +1,53 @@
+body {
+    background-color: #9DA65D
+    }
+
+p {
+    font-family: Arial;
+    }
+
+ul {
+    font-family: Arial;
+    list-style-type: none;
+    }
+
+.category {
+    color: white;
+    line-height: 150%
+    }
+
+.category b {
+    color: #202426;
+    text-decoration: underline;
+    }
+
+
+#fblogo {
+    color: white;
+    background-color: #202426;
+    font-family: Lucida Console, Courier, monospace;
+    }
+
+#search {
+    width: 230px;
+    height: 20px;
+    border-radius: 10px;
+    }
+#search:hover {
+    background: #8C8C88;
+    }
+
+#Name {
+    color: #202426;
+    font-family: Lucida Console, Courier, monospace;
+    font-weight: bolder;
+    }
+
+img {
+    border: 6px black dashed;
+    padding: 5px;
+    }
+
+img:hover {
+    border: 6px black solid;
+    }
